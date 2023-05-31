@@ -1,0 +1,26 @@
+body {
+    font-family: var(--font-family);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+}
+.bottom-20 {
+    bottom: 5rem;
+}
+.bottom-10 {
+    bottom: 1rem;
+}
+.background-sm {
+    height: calc(100vh - 5rem)
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.ui-tabview .ui-tabview-nav li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

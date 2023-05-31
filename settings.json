@@ -1,0 +1,14 @@
+{
+  "galaxy.meteor.com": { 
+     "env": { 
+       "MONGO_URL": "mongodb+srv://afkar:afkartelecom011@cluster0.a4uieij.mongodb.net/test?retryWrites=true&w=majority",
+       "MAIL_URL": "smtp://pdefuengirola:apple1apple1@smtp.sendgrid.net:587"
+     }
+  } ,
+  "s3": {
+    "AWSAccessKeyId": "AKIAVXCDPI7DRKKRSUZ4",
+    "AWSSecretAccessKey": "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",
+    "AWSRegion": "eu-west-1",
+    "AWSBucket": "afkar-telecom"
+  }
+}
